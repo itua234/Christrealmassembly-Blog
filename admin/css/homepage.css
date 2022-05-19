@@ -1,0 +1,5 @@
+.brand-content{
+    height:150px;
+    border:2px solid blue;
+    width:calc(25% - 18.75px);
+}
